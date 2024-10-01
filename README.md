@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Vue.js and RESTful APIs**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **anything related to Ruby on Rails/JavaScript/CSS...**
 
